@@ -26,3 +26,6 @@ exports.handler = async (event) => {
 
     }
 };
+
+
+// https://chatgpt.com/c/46acca9a-d6f0-4da5-98f1-6a25403f95bb
